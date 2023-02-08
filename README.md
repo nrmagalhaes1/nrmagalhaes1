@@ -2,7 +2,7 @@
 ## Bem vindo ao meu perfil GitHub 👋
 
 - 🔭 Atualmente estou trabalhando com automatização de projetos pesquisados nos laboratórios da minha faculdade.
-- 🌱 Eu atualmente estou aprendendo Programação, com enfasê em python e DataScience.
+- 🌱 Eu atualmente estou aprendendo Programação, com ênfase em python e DataScience.
 
 
 ## Estou aprendendo
