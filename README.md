@@ -1,6 +1,13 @@
 # Olá, me chamo Nathan R. Magalhães ! 
 ## Bem vindo ao meu perfil GitHub 👋
 
+
+Sou um aprendiz da programação, sempre animado em adquirir novos conhecimentos e habilidades! Atualmente, estou aprimorando meus conhecimentos em Python e me preparando para alcançar novos desafios, como HTML, CSS e JavaScript.
+
+Acredito que a programação é como um labirinto, e eu adoro explorá-lo e descobrir novos caminhos. Estou sempre pronto para encarar desafios e aprender com meus erros, pois acredito que é assim que se evolui.
+
+Se você também é apaixonado por programação e está sempre buscando evoluir, vamos explorar juntos esse labirinto incrível! Juntos somos mais fortes :)
+
 - 🔭 Atualmente estou trabalhando com automatização de projetos pesquisados nos laboratórios da minha faculdade.
 - 🌱 Eu atualmente estou aprendendo Programação, com ênfase em python e DataScience.
 
