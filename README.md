@@ -8,8 +8,8 @@ Acredito que a programação é como um labirinto, e eu adoro explorá-lo e desc
 
 Se você também é apaixonado por programação e está sempre buscando evoluir, vamos explorar juntos esse labirinto incrível! Juntos somos mais fortes :)
 
-- 🔭 Atualmente estou trabalhando com automatização de projetos pesquisados nos laboratórios da minha faculdade.
-- 🌱 Eu atualmente estou aprendendo Programação, com ênfase em python e DataScience.
+- 🔭 Atualmente estou trabalhando com automatização de projetos pesquisados nos laboratórios da minha faculdade, usando Python.
+- 🌱 Eu atualmente estou aprendendo Programação, com ênfase em python e DataScience. Além de, esporadicamente, acompanhar assustos de HTML e CSS.
 
 
 ## Estou aprendendo
