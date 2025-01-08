@@ -36,9 +36,9 @@
 
 ## Onde me encontrar
 
-[![Linkedin](https://img.shields.io/badge/-username-blue?style=flat-square&logo=Linkedin&logoColor=white&link=LINK-DO-SEU-LINKEDIN)]([LINK-DO-SEU-LINKEDIN](https://www.linkedin.com/in/nathanmagalhaes))
-[![Gmail Badge](https://img.shields.io/badge/-seuemail@email.com-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:SEU-EMAIL)](mailto:nathanrangel0906@gmail.com)
-[![GitHub](https://img.shields.io/github/followers/iuricode?label=follow&style=social)](github.com/nrmagalhaes1)
+[![Linkedin](https://img.shields.io/badge/-nathanmagalhaes-blue?style=flat-square&logo=Linkedin&logoColor=white&link=LINK-DO-SEU-LINKEDIN)]([LINK-DO-SEU-LINKEDIN](linkedin.com/in/nathanmagalhaes))
+[![Gmail Badge](https://img.shields.io/badge/-nathanrangel0906@gmail.com-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:SEU-EMAIL)](mailto:nathanrangel0906@gmail.com)
+[![GitHub](https://img.shields.io/github/followers/nrmagalhaes1?label=follow&style=social)](github.com/nrmagalhaes1)
           
           
 
